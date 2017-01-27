@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>616688502045-ccidcugep1ebkkvqo4jbhn1tah4sealm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.616688502045-ccidcugep1ebkkvqo4jbhn1tah4sealm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDUQ5JYrFVKG1_QWodniE-706P-Ywz-iDk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>616688502045</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.appcoda.FirebaseDemoLogin</string>
+	<key>PROJECT_ID</key>
+	<string>simple-lights</string>
+	<key>STORAGE_BUCKET</key>
+	<string>simple-lights.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:616688502045:ios:4d2425856571cf4d</string>
+	<key>DATABASE_URL</key>
+	<string>https://simple-lights.firebaseio.com</string>
+</dict>
+</plist>

@@ -7,21 +7,49 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		49F24B93564BB57581440621 /* Pods_FirebaseDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 95AC358A6690D23774539213 /* Pods_FirebaseDemo.framework */; };
+		F42FA0A51E3B3A5500DB0568 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F42FA0A41E3B3A5500DB0568 /* GoogleService-Info.plist */; };
+		F4D2C3521E1E4B8E00BD0580 /* UINavigationController+Transparent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D2C3511E1E4B8E00BD0580 /* UINavigationController+Transparent.swift */; };
+		F4D2C3561E1E59AE00BD0580 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D2C3551E1E59AE00BD0580 /* WelcomeViewController.swift */; };
 		F4E9C8FB1E013DBC00FD9D7C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4E9C8FA1E013DBC00FD9D7C /* AppDelegate.swift */; };
-		F4E9C8FD1E013DBC00FD9D7C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4E9C8FC1E013DBC00FD9D7C /* ViewController.swift */; };
 		F4E9C9001E013DBC00FD9D7C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4E9C8FE1E013DBC00FD9D7C /* Main.storyboard */; };
 		F4E9C9021E013DBC00FD9D7C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4E9C9011E013DBC00FD9D7C /* Assets.xcassets */; };
 		F4E9C9051E013DBC00FD9D7C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4E9C9031E013DBC00FD9D7C /* LaunchScreen.storyboard */; };
+		F4E9C91E1E0153E000FD9D7C /* Rubik-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F4E9C9141E0153E000FD9D7C /* Rubik-Black.ttf */; };
+		F4E9C91F1E0153E000FD9D7C /* Rubik-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F4E9C9151E0153E000FD9D7C /* Rubik-BlackItalic.ttf */; };
+		F4E9C9201E0153E000FD9D7C /* Rubik-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F4E9C9161E0153E000FD9D7C /* Rubik-Bold.ttf */; };
+		F4E9C9211E0153E000FD9D7C /* Rubik-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F4E9C9171E0153E000FD9D7C /* Rubik-BoldItalic.ttf */; };
+		F4E9C9221E0153E000FD9D7C /* Rubik-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F4E9C9181E0153E000FD9D7C /* Rubik-Italic.ttf */; };
+		F4E9C9231E0153E000FD9D7C /* Rubik-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F4E9C9191E0153E000FD9D7C /* Rubik-Light.ttf */; };
+		F4E9C9241E0153E000FD9D7C /* Rubik-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F4E9C91A1E0153E000FD9D7C /* Rubik-LightItalic.ttf */; };
+		F4E9C9251E0153E000FD9D7C /* Rubik-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F4E9C91B1E0153E000FD9D7C /* Rubik-Medium.ttf */; };
+		F4E9C9261E0153E000FD9D7C /* Rubik-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F4E9C91C1E0153E000FD9D7C /* Rubik-MediumItalic.ttf */; };
+		F4E9C9271E0153E000FD9D7C /* Rubik-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F4E9C91D1E0153E000FD9D7C /* Rubik-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6EAFCD78AA6C1C664B97A797 /* Pods-FirebaseDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FirebaseDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FirebaseDemo/Pods-FirebaseDemo.debug.xcconfig"; sourceTree = "<group>"; };
+		95AC358A6690D23774539213 /* Pods_FirebaseDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FirebaseDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A05E3C01162E3CFB49357120 /* Pods-FirebaseDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FirebaseDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-FirebaseDemo/Pods-FirebaseDemo.release.xcconfig"; sourceTree = "<group>"; };
+		F42FA0A41E3B3A5500DB0568 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		F4D2C3511E1E4B8E00BD0580 /* UINavigationController+Transparent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UINavigationController+Transparent.swift"; sourceTree = "<group>"; };
+		F4D2C3551E1E59AE00BD0580 /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		F4E9C8F71E013DBC00FD9D7C /* FirebaseDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirebaseDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4E9C8FA1E013DBC00FD9D7C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F4E9C8FC1E013DBC00FD9D7C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F4E9C8FF1E013DBC00FD9D7C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F4E9C9011E013DBC00FD9D7C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F4E9C9041E013DBC00FD9D7C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F4E9C9061E013DBC00FD9D7C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F4E9C9141E0153E000FD9D7C /* Rubik-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rubik-Black.ttf"; sourceTree = "<group>"; };
+		F4E9C9151E0153E000FD9D7C /* Rubik-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rubik-BlackItalic.ttf"; sourceTree = "<group>"; };
+		F4E9C9161E0153E000FD9D7C /* Rubik-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rubik-Bold.ttf"; sourceTree = "<group>"; };
+		F4E9C9171E0153E000FD9D7C /* Rubik-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rubik-BoldItalic.ttf"; sourceTree = "<group>"; };
+		F4E9C9181E0153E000FD9D7C /* Rubik-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rubik-Italic.ttf"; sourceTree = "<group>"; };
+		F4E9C9191E0153E000FD9D7C /* Rubik-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rubik-Light.ttf"; sourceTree = "<group>"; };
+		F4E9C91A1E0153E000FD9D7C /* Rubik-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rubik-LightItalic.ttf"; sourceTree = "<group>"; };
+		F4E9C91B1E0153E000FD9D7C /* Rubik-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rubik-Medium.ttf"; sourceTree = "<group>"; };
+		F4E9C91C1E0153E000FD9D7C /* Rubik-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rubik-MediumItalic.ttf"; sourceTree = "<group>"; };
+		F4E9C91D1E0153E000FD9D7C /* Rubik-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rubik-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +57,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49F24B93564BB57581440621 /* Pods_FirebaseDemo.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		89356AA029FC3823C5B62CBA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				95AC358A6690D23774539213 /* Pods_FirebaseDemo.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A83AE23F15418E523F053B31 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6EAFCD78AA6C1C664B97A797 /* Pods-FirebaseDemo.debug.xcconfig */,
+				A05E3C01162E3CFB49357120 /* Pods-FirebaseDemo.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		F4E9C8EE1E013DBC00FD9D7C = {
 			isa = PBXGroup;
 			children = (
 				F4E9C8F91E013DBC00FD9D7C /* FirebaseDemo */,
 				F4E9C8F81E013DBC00FD9D7C /* Products */,
+				A83AE23F15418E523F053B31 /* Pods */,
+				89356AA029FC3823C5B62CBA /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +102,58 @@
 		F4E9C8F91E013DBC00FD9D7C /* FirebaseDemo */ = {
 			isa = PBXGroup;
 			children = (
+				F4E9C9121E0153BD00FD9D7C /* Resources */,
+				F4E9C90F1E013E2200FD9D7C /* Controller */,
+				F4E9C90E1E013E0C00FD9D7C /* View */,
 				F4E9C8FA1E013DBC00FD9D7C /* AppDelegate.swift */,
-				F4E9C8FC1E013DBC00FD9D7C /* ViewController.swift */,
 				F4E9C8FE1E013DBC00FD9D7C /* Main.storyboard */,
 				F4E9C9011E013DBC00FD9D7C /* Assets.xcassets */,
 				F4E9C9031E013DBC00FD9D7C /* LaunchScreen.storyboard */,
 				F4E9C9061E013DBC00FD9D7C /* Info.plist */,
+				F42FA0A41E3B3A5500DB0568 /* GoogleService-Info.plist */,
 			);
 			path = FirebaseDemo;
+			sourceTree = "<group>";
+		};
+		F4E9C90E1E013E0C00FD9D7C /* View */ = {
+			isa = PBXGroup;
+			children = (
+				F4D2C3511E1E4B8E00BD0580 /* UINavigationController+Transparent.swift */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		F4E9C90F1E013E2200FD9D7C /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				F4D2C3551E1E59AE00BD0580 /* WelcomeViewController.swift */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		F4E9C9121E0153BD00FD9D7C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F4E9C9131E0153C700FD9D7C /* Fonts */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		F4E9C9131E0153C700FD9D7C /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				F4E9C9141E0153E000FD9D7C /* Rubik-Black.ttf */,
+				F4E9C9151E0153E000FD9D7C /* Rubik-BlackItalic.ttf */,
+				F4E9C9161E0153E000FD9D7C /* Rubik-Bold.ttf */,
+				F4E9C9171E0153E000FD9D7C /* Rubik-BoldItalic.ttf */,
+				F4E9C9181E0153E000FD9D7C /* Rubik-Italic.ttf */,
+				F4E9C9191E0153E000FD9D7C /* Rubik-Light.ttf */,
+				F4E9C91A1E0153E000FD9D7C /* Rubik-LightItalic.ttf */,
+				F4E9C91B1E0153E000FD9D7C /* Rubik-Medium.ttf */,
+				F4E9C91C1E0153E000FD9D7C /* Rubik-MediumItalic.ttf */,
+				F4E9C91D1E0153E000FD9D7C /* Rubik-Regular.ttf */,
+			);
+			name = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +163,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F4E9C9091E013DBC00FD9D7C /* Build configuration list for PBXNativeTarget "FirebaseDemo" */;
 			buildPhases = (
+				3351D8A24CA5A06B82C20638 /* [CP] Check Pods Manifest.lock */,
 				F4E9C8F31E013DBC00FD9D7C /* Sources */,
 				F4E9C8F41E013DBC00FD9D7C /* Frameworks */,
 				F4E9C8F51E013DBC00FD9D7C /* Resources */,
+				C58980E601B83D70C7EAD1EB /* [CP] Embed Pods Frameworks */,
+				EF5D26AAE9F22F8C8F3DD874 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -123,20 +218,80 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4E9C91F1E0153E000FD9D7C /* Rubik-BlackItalic.ttf in Resources */,
+				F4E9C9241E0153E000FD9D7C /* Rubik-LightItalic.ttf in Resources */,
+				F4E9C9201E0153E000FD9D7C /* Rubik-Bold.ttf in Resources */,
 				F4E9C9051E013DBC00FD9D7C /* LaunchScreen.storyboard in Resources */,
 				F4E9C9021E013DBC00FD9D7C /* Assets.xcassets in Resources */,
+				F4E9C9231E0153E000FD9D7C /* Rubik-Light.ttf in Resources */,
+				F4E9C9221E0153E000FD9D7C /* Rubik-Italic.ttf in Resources */,
+				F4E9C9261E0153E000FD9D7C /* Rubik-MediumItalic.ttf in Resources */,
+				F4E9C91E1E0153E000FD9D7C /* Rubik-Black.ttf in Resources */,
+				F4E9C9211E0153E000FD9D7C /* Rubik-BoldItalic.ttf in Resources */,
+				F4E9C9271E0153E000FD9D7C /* Rubik-Regular.ttf in Resources */,
+				F4E9C9251E0153E000FD9D7C /* Rubik-Medium.ttf in Resources */,
 				F4E9C9001E013DBC00FD9D7C /* Main.storyboard in Resources */,
+				F42FA0A51E3B3A5500DB0568 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3351D8A24CA5A06B82C20638 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		C58980E601B83D70C7EAD1EB /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FirebaseDemo/Pods-FirebaseDemo-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EF5D26AAE9F22F8C8F3DD874 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FirebaseDemo/Pods-FirebaseDemo-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		F4E9C8F31E013DBC00FD9D7C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F4E9C8FD1E013DBC00FD9D7C /* ViewController.swift in Sources */,
+				F4D2C3521E1E4B8E00BD0580 /* UINavigationController+Transparent.swift in Sources */,
+				F4D2C3561E1E59AE00BD0580 /* WelcomeViewController.swift in Sources */,
 				F4E9C8FB1E013DBC00FD9D7C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -258,11 +413,12 @@
 		};
 		F4E9C90A1E013DBC00FD9D7C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6EAFCD78AA6C1C664B97A797 /* Pods-FirebaseDemo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = FirebaseDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.appcoda.FirebaseDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.appcoda.FirebaseDemoLogin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -270,11 +426,12 @@
 		};
 		F4E9C90B1E013DBC00FD9D7C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A05E3C01162E3CFB49357120 /* Pods-FirebaseDemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = FirebaseDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.appcoda.FirebaseDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.appcoda.FirebaseDemoLogin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -299,6 +456,7 @@
 				F4E9C90B1E013DBC00FD9D7C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
